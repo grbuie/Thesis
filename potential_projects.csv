@@ -1,0 +1,27 @@
+﻿project_name,Description,Proj_no,Cost,An_Sav,Payback,Returns
+Genetic Medicine Research Bldg,Install synchronous drive belts per ESPC,10,70000,21212.12121,3.3,0.303030303
+Lineberger Cancer Research Building ,Airflow reduction and controls upgrade,1,2105000,443000,4.8,0.210451306
+Glaxo,Airflow reduction and controls upgrade,4,900000,181000,5,0.201111111
+Phillips Hall,Provide VFD on chilled water pumps,24,30580,4368.571429,7,0.142857143
+Molecular Biology Research Lab/Glaxo,MBRB Ventilation Reduction per ESCO,22,580000,80555.55556,7.2,0.138888889
+Health Affairs Buildings,Upgrade Wall Packs to LED-70,16,28600,3972.222222,7.2,0.138888889
+Kenan Labs,Repair mechanical insulation per ESPC,17,35750,4766.666667,7.5,0.133333333
+Fordham Hall,Airflow reduction and controls upgrade,3,1370900,160500,8.5,0.117076373
+Carroll Hall,VAV zone controls upgrade,2,706000,78100,9,0.110623229
+Davis Library,High output T8 Lighting upgrade,6,33696,3702.857143,9.1,0.10989011
+"Friday Center, William & Ida",Lighting Upgrade,9,250000,27472.52747,9.1,0.10989011
+Graham Student Union,Lighting Upgrade,12,97390,10585.86957,9.2,0.108695652
+Greenlaw Hall,Install dedicated gateway for EMCS connectivity,13,25000,2500,10,0.1
+Hamilton Hall,Install dedicated gateway for EMCS connectivity,14,25000,2500,10,0.1
+Kerr Hall,Add VFD’s on preheat,19,20000,2000,10,0.1
+Manning Hall,Install dedicated gateway for EMCS connectivity,21,25000,2500,10,0.1
+Upgrade incandescent and MH lighting in health affairs buildings,NC Area Health Education Center Bldg,23,40000,4000,10,0.1
+Kenan Labs,Water retrofit per ESPC,18,23496,2136,11,0.090909091
+Knapp-Sanders Bldg,Lighting upgrade - Atrium,20,45000,4090.909091,11,0.090909091
+"Finley Golf Course Road, 212",Lighting Upgrade,7,22860,1693.333333,13.5,0.074074074
+Hanes Art Center,Upgrade Halogen and Incandescent to LED - Auditorium,15,57782,4127.285714,14,0.071428571
+Genetic Medicine Research Bldg,Water retrofit per ESPC,11,55419,3902.746479,14.2,0.070422535
+"Ehringhaus, Hinton James",Replace discontinued fluorescent fixtures with LED,8,175000,11666.66667,15,0.066666667
+Tarrson Hall,Install exhaust fan control to enable occupant scheduling,25,75000,5000,15,0.066666667
+Knapp-Sanders Bldg,Lighting Upgrade,5,57200,3303,17.31759007,0.057744755
+Tarrson Hall,Upgrade pneumatic terminal unit controls to DDC,26,760500,25671,29.62486853,0.033755424
