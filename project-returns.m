@@ -1,3 +1,5 @@
+%copied and pasted data (starting at row 2, column 3 of csv file) into a matrix entitled "projects"
+
 start_year = 1;
 max_year = 12;
 proj = 1;
@@ -8,6 +10,7 @@ capital = 5000000;
 cashflow = zeros(1,10);
 
 for year  = start_year:max_year
+%cost includes 2 full-time salaries of $80,000 each
    cost = 160000; 
    for proj = 1:max_proj
       if capital > 160000  
@@ -23,5 +26,6 @@ for year  = start_year:max_year
    end
    cashflow(1,year) = returns - cost;
 end
- 
+
+% 6% discount rate
 NPV = pvvar(cashflow,.06); 
